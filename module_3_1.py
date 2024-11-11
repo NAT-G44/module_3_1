@@ -1,5 +1,3 @@
-from unittest import removeResult
-
 calls = 0
 def count_calls ():
     global calls
